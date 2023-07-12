@@ -1,0 +1,8 @@
+git config --global user.name "Bivedh_Nhuchhe"
+git config --global user.email "hdevib@outlook.com"
+git init // to intialize git repositroy
+git status// view status
+ls // to see the content short for list
+cd// to change file directory
+git add //working directory to staging area , allows to track
+git commit // acts as a save ie checkpoint
